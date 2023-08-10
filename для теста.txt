@@ -1,0 +1,29 @@
+flutter run -d chrome --web-renderer html
+
+
+<html>
+<head>
+<title>
+Example of Paragraph tag
+</title>
+</head>
+<body>
+<p> <!-- It is a Paragraph tag for creating the paragraph -->
+<b> HTML </b> stands for <i> <u> Hyper Text Markup Language. </u> </i> It is used to create a web pages and applications. This language 
+is easily understandable by the user and also be modifiable. It is actually a Markup language, hence it provides a flexible way for designing the 
+web pages along with the text.
+</p>
+HTML file is made up of different elements. <b> An element </b> is a collection of <i> start tag, end tag, attributes and the text between them</i>.
+</p>
+</body>
+</html>
+
+https://www.javatpoint.com/simple-html-pages
+
+
+<title>Example of Paragraph tag</title>
+<body>
+<p>test text for trying indexing</p>
+</body>
+
+https://www.javatpoint.com/
